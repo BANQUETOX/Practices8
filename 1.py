@@ -38,15 +38,15 @@
 # 410929
 # Rutinas a realizar
 # Se solicita que usted realice la solución a los siguientes puntos, utilizando las listas y rutinas.
-# (Done)Crear una función que reciba el nombre de una provincia e indique si existe o no existe (debe devolver el índice de
-# (Done)la provincia dentro de la lista en caso de que exista, en caso de que la provincia no exista debe devolver -1).
-# (Done)Realice un procedimiento que imprima la densidad poblacional de cada una de las 7 provincias, la densidad
-# (Done)poblacional se calcula mediante la siguiente fórmula (densidad = población/ superficie).
-# (Done)Crear un procedimiento que imprima cuál es la provincia con la mayor densidad poblacional.
-# (Done)Realice una función que retorne cuanto es el total de terreno que ocupan las provincias que tienen salida al mar.
-# (Done)Diseñe una función que calcule el tamaño total del país de Costa Rica.
-# (Done)Realice una función que muestre cuánto es el porcentaje de superficie al que equivale cada provincia con respecto
-# (Done)al país.
+# Crear una función que reciba el nombre de una provincia e indique si existe o no existe (debe devolver el índice de
+# la provincia dentro de la lista en caso de que exista, en caso de que la provincia no exista debe devolver -1).
+# Realice un procedimiento que imprima la densidad poblacional de cada una de las 7 provincias, la densidad
+# poblacional se calcula mediante la siguiente fórmula (densidad = población/ superficie).
+# Crear un procedimiento que imprima cuál es la provincia con la mayor densidad poblacional.
+# Realice una función que retorne cuanto es el total de terreno que ocupan las provincias que tienen salida al mar.
+# Diseñe una función que calcule el tamaño total del país de Costa Rica.
+# Realice una función que muestre cuánto es el porcentaje de superficie al que equivale cada provincia con respecto
+# al país.
 # Cree un menú de opciones que permita interactuar con los puntos anteriores.
 
 provinces = ["San José", "Cartago", "Alajuela",
